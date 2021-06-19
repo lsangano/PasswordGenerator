@@ -1,3 +1,4 @@
+<img width="1427" alt="Screen Shot 2021-06-19 at 7 18 52 PM" src="https://user-images.githubusercontent.com/84358026/122657829-e24af580-d134-11eb-911e-03545f45c51a.png">
 # PasswordGenerator
 ## Your Task
 
